@@ -12,5 +12,5 @@ Utilizei HTML e CSS, Git e GitHub para desenvolver esse projeto com responsivida
 
 ## Entre em contato comigo ☎️
 
-Instagram: @emanuel.lorentz
+Instagram: @emanuel.lorentz <br>
 Email: emanuel.lorentz@icloud.com
