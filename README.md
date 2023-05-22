@@ -15,5 +15,5 @@ Esse é meu primeiro projeto WEB com responsividade e foi desenvolvido em 5 dias
 
 ## Entre em contato comigo ☎️
 
-Instagram: @emanuel.lorentz
+Instagram: @emanuel.lorentz <br>
 Email: emanuel.lorentz@icloud.com
