@@ -56,8 +56,11 @@ body {
 nav {
   padding: 64px;
   grid-area: timeline;
-  overflow-y: scroll;
   animation: enteringnav 1.5s ease-in-out;
+}
+
+.memory1 nav {
+  overflow-y: scroll;
 }
 
 .memory1 {
@@ -167,12 +170,12 @@ aside span {
   }
 }
 
+nav {
+  padding: 22px;
+  overflow-y: scroll;
+}
+
 aside {
   border-right: none;
   padding: 32 px 12px;
-}
-
-nav {
-  overflow-y: visible;
-  padding: 22px;
 }
