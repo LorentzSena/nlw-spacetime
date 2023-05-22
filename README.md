@@ -4,11 +4,14 @@
 
 ## Projeto 🧑‍💻
 
-Esse é meu primeiro projeto WEB e foi desenvolvido em 5 dias no NLW Spacetime da Rocketseat. A ideia foi criar uma linha do tempo contando a história da minha família.
+Esse é meu primeiro projeto WEB com responsividade e foi desenvolvido em 5 dias no NLW Spacetime da Rocketseat. A ideia foi criar uma linha do tempo contando a história da minha família.
 
 ## Tecnologias 💻
 
-Utilizei HTML e CSS, Git e GitHub para desenvolver esse projeto com responsividade e muito criatividade.
+- HTML
+- CSS
+- Git e GitHub
+- Muita criatividade
 
 ## Entre em contato comigo ☎️
 
